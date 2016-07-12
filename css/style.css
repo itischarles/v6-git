@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Jun-2016, 16:20:48
+    Author     : itischarles
+*/
+
+
+/**HEADER***/
+
+#my-page .main-header .navbar {
+    background-color: #f4f4f3;
+    border-bottom: 4px solid #0a0a0a;
+}
+
+#my-page .main-header .logo {
+    background-color: #f4f4f3;
+    border-bottom: 0 solid transparent;
+    color: #fff;
+}
+
+
+/**CONTENT**/
+
+.content-wrapper, .right-side {
+    background-color: #f4f4f3;
+}
+
+
+/**SIDEBAR**/
+/*.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background: none repeat #b49562;
+    
+}*/
+/** menu header**/
+#my-page .sidebar-menu > li.header {
+    background: #ac8952 none repeat scroll 0 0;
+    color: #000;
+}
+
+#my-page .main-sidebar{
+    background:  #101010 none repeat scroll 0 0
+}
+
+#my-page .main-sidebar .sidebar a {
+    color: #FFFFFF;
+}
+
+
+
+#my-page .sidebar .sidebar-menu li a:hover {
+    background: none repeat #BDA175;
+}
+
+#my-page .sidebar .sidebar-menu li {
+   border-bottom: 1px dotted #ac8952;
+}
+
+
+ #my-page .sidebar-menu > li.active > a {
+    background: #9A7B4A none repeat scroll 0 0;
+    border-left-color: #000;
+    color: #fff;
+}
+
+/**
+UL UL
+**/
+#my-page .sidebar-menu > li > .treeview-menu {
+    background: #AC8952 none repeat scroll 0 0;
+    margin: 0 1px;
+}
+
+#my-page .sidebar-menu .treeview-menu li{
+ border-bottom: 2px dotted #b59563;
+}
+
+
+
+
+
+/*.gray-bg {
+    background: #292425 none repeat scroll 0 0;
+}
+.gray-bg-light{
+    background: #696666 none repeat scroll 0 0;
+}
+.blue-gb-light{
+    background: #d2d6de none repeat scroll 0 0;
+}*/
+
+
+/**LOGIN REGISTER**/
+.login-page footer, .register-page footer{
+    margin-left: 0;
+    background: #292425 none repeat scroll 0 0;
+/*    color: #fff;*/
+}
+
+.login-page .wrapper , .register-page .wrapper{
+    background: #d2d6de none repeat scroll 0 0;
+}
+.login-box-body a, .login-title{
+/*    color: #fff;*/
+}
+
+.register-box {
+    margin: 7% auto;
+    width: 504px;
+}
+
+
+/**buttons**/
+.btn-primary-2 {
+    background-color: #696666;
+    border-color: #fff;
+    color: #fff;
+}
