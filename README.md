@@ -9,7 +9,7 @@ setup:
 
 make sure you update the base_url in /application/config/config/php
 make sure you update the path in your .htaccess file
-make sure to change the database logins
+make sure to change the database logins .
 
 default login
 =============
